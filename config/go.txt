@@ -1,0 +1,4 @@
+go mod init projectmei
+go get ....
+
+go build
